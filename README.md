@@ -26,7 +26,7 @@ carte cronos driver (pas d'origine)
 
 moteur Genmutsu 20000 RPM (pas d'origine)
 
-![](https://github.com/fredolaredo/Setup/blob/main/images/IMG_20210129_123117.jpg)
+![](https://github.com/fredolaredo/Setup/blob/main/images/IMG_20210129_123342.jpg)
 
 
 
