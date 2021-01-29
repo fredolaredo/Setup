@@ -47,7 +47,7 @@ bit "javelot" 0.1mm pour gravure des pistes
 
 bit 0.8mm pour percage des trous et contour
 
-![](https://github.com/fredolaredo/Setup/blob/main/images/IMG_20210129_123117.jpg)
+![](https://github.com/fredolaredo/Setup/blob/main/images/IMG_20210129_123231.jpg)
 
 
 
