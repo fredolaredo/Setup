@@ -26,7 +26,7 @@ carte cronos driver (pas d'origine)
 
 moteur Genmutsu 20000 RPM (pas d'origine)
 
-<img src="/images/IMG_20210129_123342.jpg" alt="CNC 3018" style="height: 10px; width:10px;"/>
+<img src="/images/IMG_20210129_123342.jpg" alt="CNC 3018" title="CNC 3018" width="300" height="200" />
 
 
 
@@ -35,7 +35,7 @@ moteur Genmutsu 20000 RPM (pas d'origine)
 **gravure des pistes**
 
 bit "javelot" 0.1mm pour gravure des pistes
-![](https://github.com/fredolaredo/Setup/blob/main/images/IMG_20210129_123117.jpg)
+<img src="/images/IMG_20210129_123117.jpg" alt="bit javelot 0.1mm" title="bit javelot 0.1mm" width="300" height="200" />
 
 - pistes 0.7mm
 
@@ -46,9 +46,7 @@ bit "javelot" 0.1mm pour gravure des pistes
 
 
 bit 0.8mm pour percage des trous et contour
-
-![](https://github.com/fredolaredo/Setup/blob/main/images/IMG_20210129_123231.jpg)
-
+<img src="/images/IMG_20210129_123231.jpg" alt="bit bleu 0.1mm" title="bit 0.8mm" width="300" height="200" />
 
 
 
