@@ -16,7 +16,7 @@ Creality CR-10S
 
 
 
-## CNC
+## gravure CNC
 
 3018 no name (meme pas pro)
 
@@ -35,16 +35,34 @@ bit "javelot" 0.1mm pour gravure des pistes
 
 <img src="/images/IMG_20210129_123117.jpg" alt="bit javelot 0.1mm" title="bit javelot 0.1mm" width="300" height="200" />
 
-- pistes 0.7mm
-
-- plan de masse avec 0.2mm de clearance
-
 
 **contour et trous**
 
 bit 0.8mm pour percage des trous et contour
 
 <img src="/images/IMG_20210129_123231.jpg" alt="bit bleu 0.1mm" title="bit 0.8mm" width="300" height="200" />
+
+
+**paramétrages**
+
+- pistes 0.7mm
+
+- plan de masse avec 0.2mm de clearance
+
+- profondeur à 0.1mm
+
+- vitesse 100 mm/s
+
+- moteur à 20000 RPM
+
+**soft**
+
+electronique : kicad 
+
+gcode : flatcam sur VM windows 10 car je n'arrive pas a le faire fonctionner sur macos à cause pyQT
+
+bCNC : gravure et mapping
+
 
 
 
