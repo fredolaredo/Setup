@@ -14,6 +14,7 @@ mac os High Sierra
 
 Creality CR-10S
 
+je n'ai changé que les ventilos, ceux d'origine font un boucan d'enfer !!! dommage lorsque l'on a des TMC2208 
 
 
 ## gravure CNC
