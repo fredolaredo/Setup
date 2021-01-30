@@ -10,7 +10,7 @@ mac os High Sierra
 
 
 
-## imrimante 3D
+## imprimante 3D
 
 Creality CR-10S
 
