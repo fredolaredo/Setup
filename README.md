@@ -32,6 +32,8 @@ moteur Genmutsu 20000 RPM (pas d'origine)
 
 **gravure des pistes**
 
+plaque de cuivre scotchée sur une planche nivelée avec une grosse fraise plate.
+
 bit "javelot" 0.1mm pour gravure des pistes
 
 <img src="/images/IMG_20210129_123117.jpg" alt="bit javelot 0.1mm" title="bit javelot 0.1mm" width="300" height="200" />
