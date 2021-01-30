@@ -48,7 +48,7 @@ bit 0.8mm pour percage des trous et contour
 
 - pistes 0.7mm
 
-- plan de masse avec 0.2mm de clearance
+- plan de masse avec 0.2mm de clearance (2 x 0.1mm a cause du plan de masse)
 
 - profondeur à 0.1mm
 
