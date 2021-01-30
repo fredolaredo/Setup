@@ -25,6 +25,8 @@ carte cronos driver (pas d'origine)
 
 moteur Genmutsu 20000 RPM (pas d'origine)
 
+j'avais rajouté des "end-stop" mais finalement retirés, pas essentiel à mon sens.
+
 <img src="/images/IMG_20210129_123342.jpg" alt="CNC 3018" title="CNC 3018" width="300" height="200" />
 
 
